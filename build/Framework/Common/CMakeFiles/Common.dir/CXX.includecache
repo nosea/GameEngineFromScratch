@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Framework/Interface/IApplication.hpp
+Interface.hpp
+../Framework/Interface/Interface.hpp
+IRuntimeModule.hpp
+../Framework/Interface/IRuntimeModule.hpp
+
+../Framework/Interface/IRuntimeModule.hpp
+Interface.hpp
+../Framework/Interface/Interface.hpp
+
+../Framework/Interface/Interface.hpp
+
+/Users/nosea/Work/GameEngineFromScratch/Framework/Common/BaseApplication.cpp
+
+/Users/nosea/Work/GameEngineFromScratch/Framework/Common/main.cpp
+stdio.h
+-
+IApplication.hpp
+/Users/nosea/Work/GameEngineFromScratch/Framework/Common/IApplication.hpp
+
